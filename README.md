@@ -2,7 +2,7 @@
 
 #  Mayank Verma (Mayerust)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=820&height=40&background=00000000&lines=%24+tail+-f+build.log;training+random+forest+on+CSIC-2010+dataset;deploying+shadowguard.py+to+production;scanning+endpoints+for+known+CVEs;status%3A+always+building%2C+always+defending" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=820&height=40&background=00000000&lines=+Engineering+Softwares;Building+AI-Based+Cybersecurity+Tools;Automating+Data+Pipelines;Securing+Web+Applications;Status%3A+Always+Thinking%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
