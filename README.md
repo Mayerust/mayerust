@@ -58,7 +58,7 @@ drwxr-xr-x  packet-tracer # Network simulation & design
 
 Production-style WAF combining rule-based detection with a Random Forest engine trained on the CSIC 2010 HTTP dataset — real-time inspection for SQLi, XSS, SSRF, XXE & command injection.
 
-`Python` `Flask` `Docker` `Nginx` `Scikit-Learn` `Gunicorn` `SQLite` `MySQL` `Redis` `Render` `Pandas` `Numpy` `Matplotlib` `OpenAPI`        
+`Python` `Flask` `Docker` `Nginx` `Scikit-Learn` `Gunicorn` `SQLite` `MySQL` `Redis` `Render` `Pandas` `Numpy` `Matplotlib` `OpenAPI`
 
 - 58 engineered HTTP-request security features
 - Attack scoring evaluated with F1 / ROC-AUC
@@ -74,7 +74,7 @@ Production-style WAF combining rule-based detection with a Random Forest engine 
 
 Detects AI-generated audio through automated feature extraction and ML-based authenticity analysis.
 
-`Python` `Feature Engineering` `ML Pipelines` `AWS` `Google Cloud` `Azure` `Vercel` `FastAPI` `Git` `GitHub`  
+`Python` `Feature Engineering` `ML Pipelines` `AWS` `Google Cloud` `Azure` `Vercel` `FastAPI` `Git` `GitHub`
 
 - Top 10 nationally: AMD Slingshot Hackathon
 - End-to-end automated preprocessing → classification
@@ -92,7 +92,7 @@ Detects AI-generated audio through automated feature extraction and ML-based aut
 
 Automated static-analysis pipeline for Android APKs using Androguard, engineering permission-based features for binary malware classification.
 
-`Python` `Androguard` `Scikit-Learn` `Malware Analysis` `Bash Scripting` `Splunk` `Ghidra` `Postman`    
+`Python` `Androguard` `Scikit-Learn` `Malware Analysis` `Bash Scripting` `Splunk` `Ghidra` `Postman`
 
 - Automated permission + feature extraction
 - ML workflows for malicious vs. benign classification
@@ -123,16 +123,20 @@ When not writing code or analyzing malware, I'm engineering audio environments.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayerust&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayerust&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayerust&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D&cache_seconds=86400&v=1" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayerust&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D&cache_seconds=86400&v=1" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerust&theme=tokyonight&hide_border=false&background=0D1117&stroke=30363D&ring=39FF14&fire=FFA657&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerust&theme=tokyonight&hide_border=false&background=0D1117&stroke=30363D&ring=39FF14&fire=FFA657&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=00D9FF" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerust&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00D9FF&line=00D9FF&point=39FF14&area=true&area_color=39FF14&border_color=30363D" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerust&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00D9FF&line=00D9FF&point=39FF14&area=true&area_color=39FF14&border_color=30363D" width="100%" alt="Activity Graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayerust/mayerust/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
 
 </div>
 
