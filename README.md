@@ -1,27 +1,228 @@
-# 💫 About Me:
-I'm currently building AI-powered cybersecurity and machine learning systems, including ShadowGuard (AI Web Application Firewall) and AuraForge (AI Audio Authenticity Detection).<br><br>I'm looking to collaborate on AI Engineering, Cybersecurity, DevSecOps, MLOps, Backend Engineering, and Open Source projects.<br><br>I'm currently learning Large Language Models (LLMs), Agentic AI, Cloud Security, Kubernetes, MLOps, and Distributed AI Systems.<br><br>Ask me about Python, Machine Learning, Flask, Cybersecurity, Web Application Security, Docker, AWS, or AI System Design.<br><br>Highlights:<br>• Top 10 Finalist: AMD Slingshot Hackathon<br>• Microsoft SC-900 Certified<br>• AI/ML & Cybersecurity Projects with production-style architectures<br><br>⚡ Fun fact: I enjoy building AI systems that solve real security problems rather than just training models.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:00FFF9&height=230&section=header&text=MAYANK%20VERMA&fontSize=46&fontColor=00FFF9&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Backend%20Engineering&descAlignY=54&descSize=18&descColor=C8C8FF" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayerustt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayerust) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/idkhowcuriousiam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mayerust) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankverma18.work@gmail.com) 
+<a href="https://github.com/mayerust">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFF9&center=true&vCenter=true&width=820&height=50&background=0D022100&lines=%3E+booting+ShadowGuard.exe+...;%3E+training+Random+Forest+on+CSIC-2010+dataset;%3E+securing+networks+%40+Hindalco+Industries;%3E+status%3A+building+AI-powered+defense+systems" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayerust&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mayerust&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayerust&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=mayerust&label=SIGNAL%20DETECTED&color=FF2079&style=for-the-badge&labelColor=0D0221" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayerust&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:7B2FF7,100:00FFF9&height=3&width=100%" width="100%"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayerust&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=mayerust&icon=2&color=5)](https://visitcount.itsvg.in)
+## root@mayerust:~$ whoami
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+identity:
+  name: Mayank Verma
+  location: Bhopal, Madhya Pradesh, IN
+  role: CS Undergraduate — Cybersecurity & Digital Forensics
+  university: VIT Bhopal University (CGPA 8.91) | 2023 - 2027
+  current_status: Summer Intern @ Hindalco Industries Limited (SOC Operations)
+  mission: >
+    Building AI-powered security systems, intelligent automation, and
+    scalable backend software — where machine learning meets defensive engineering.
+```
+
+> "I don't just detect threats — I train models to see them coming."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:FF2079,100:00FFF9&height=3&width=100%" width="100%"/>
+
+## ⚡ neural.stack — tools i wield
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,aws,linux,postgres,sqlite,git,bash,html,css,js&theme=dark&perline=13" />
+
+<br/><br/>
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF2079?style=for-the-badge&logo=burpsuite&logoColor=00FFF9&labelColor=0D0221)
+![Wireshark](https://img.shields.io/badge/Wireshark-7B2FF7?style=for-the-badge&logo=wireshark&logoColor=00FFF9&labelColor=0D0221)
+![Nmap](https://img.shields.io/badge/Nmap-00FFF9?style=for-the-badge&logo=nmap&logoColor=0D0221&labelColor=0D0221)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF2079?style=for-the-badge&logo=scikit-learn&logoColor=00FFF9&labelColor=0D0221)
+![Nginx](https://img.shields.io/badge/Nginx-7B2FF7?style=for-the-badge&logo=nginx&logoColor=00FFF9&labelColor=0D0221)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-00FFF9?style=for-the-badge&logo=kalilinux&logoColor=0D0221&labelColor=0D0221)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:7B2FF7,100:0D0221&height=3&width=100%" width="100%"/>
+
+## 🛰️ active.deployments — featured builds
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ ShadowGuard
+**AI-Powered Intelligent Web Application Firewall**
+
+Production-style WAF combining rule-based detection with a Random Forest engine trained on the CSIC 2010 HTTP dataset — real-time inspection for SQLi, XSS, SSRF, XXE & command injection.
+
+`Python` `Flask` `Docker` `Nginx` `Scikit-Learn`
+
+- ⚙️ 58 engineered HTTP-request security features
+- 📊 Attack scoring evaluated with F1 / ROC-AUC
+- 🔒 Secure SDLC + threat modeling from day one
+
+[`→ view repo`](https://github.com/mayerust)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 AuraForge
+**AI-Powered Audio Authenticity Detection Platform**
+
+Detects AI-generated audio through automated feature extraction and ML-based authenticity analysis.
+
+`Python` `Feature Engineering` `ML Pipelines`
+
+- 🏆 Top 10 nationally — AMD Slingshot Hackathon
+- 🔬 End-to-end automated preprocessing → classification
+- 🎯 Applied to content-moderation use cases
+
+[`→ view repo`](https://github.com/mayerust)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ APKGuard
+**Android Malware Analysis Automation**
+
+Automated static-analysis pipeline for Android APKs using Androguard, engineering permission-based features for binary malware classification.
+
+`Python` `Androguard` `Scikit-Learn`
+
+- 📦 Automated permission + feature extraction
+- 🧠 ML workflows for malicious vs. benign classification
+- 📈 Built for scalable large-batch APK analysis
+
+[`→ view repo`](https://github.com/mayerust)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 SOC Ops — Hindalco Industries Ltd.
+**Summer Intern (May 2026 – Present)**
+
+Supporting enterprise SOC operations — monitoring, vulnerability assessment, and incident response inside production IT environments.
+
+`Threat Analysis` `Automation` `Documentation`
+
+- 🔍 Security event analysis & enterprise monitoring
+- ⚙️ Automated internal security workflows with Python
+- 🤝 Cross-functional collaboration on defensive ops
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:7B2FF7,100:00FFF9&height=3&width=100%" width="100%"/>
+
+## 📡 system.metrics — live telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayerust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF9&icon_color=FF2079&text_color=C8C8FF&ring_color=7B2FF7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayerust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00FFF9&text_color=C8C8FF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayerust&theme=tokyonight&hide_border=true&background=0D0221&stroke=00FFF9&ring=FF2079&fire=FF2079&currStreakLabel=00FFF9&sideLabels=C8C8FF&currStreakNum=FFFFFF&sideNums=C8C8FF&dates=7B2FF7" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayerust&theme=tokyo-night&hide_border=true&bg_color=0D0221&color=00FFF9&line=FF2079&point=FFFFFF&area=true&area_color=7B2FF7" width="100%"/>
+
+</div>
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!-- snake animation renders here once the workflow below is enabled -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayerust/mayerust/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+</div>
+<!--END_SECTION:waka-->
+
+<details>
+<summary>🐍 <b>enable the contribution snake</b> (click to expand setup)</summary>
+
+<br/>
+
+Create `.github/workflows/snake.yml` in this repo with:
+
+```yaml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mayerust
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it, wait for the first Action run, and the snake will start eating your contribution graph automatically every 6 hours.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:7B2FF7,100:0D0221&height=3&width=100%" width="100%"/>
+
+## 🏅 clearance.log — certifications & achievements
+
+<div align="center">
+
+![SC-900](https://img.shields.io/badge/Microsoft%20SC--900-920%2F1000-00FFF9?style=for-the-badge&logo=microsoft&logoColor=0D0221&labelColor=0D0221)
+![ML Internship](https://img.shields.io/badge/SmartBridge%20x%20Google-ML%20Internship%2097%2F100-FF2079?style=for-the-badge&logo=googlecloud&logoColor=0D0221&labelColor=0D0221)
+![AMD Slingshot](https://img.shields.io/badge/AMD%20Slingshot-Top%2010%20Nationally-7B2FF7?style=for-the-badge&logo=amd&logoColor=00FFF9&labelColor=0D0221)
+![GCP Security](https://img.shields.io/badge/Google%20Cloud-Security%20%26%20DLP%20Badges-00FFF9?style=for-the-badge&logo=googlecloud&logoColor=0D0221&labelColor=0D0221)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:FF2079,100:00FFF9&height=3&width=100%" width="100%"/>
+
+## 📡 open.channel — reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayerust-00FFF9?style=for-the-badge&logo=linkedin&logoColor=0D0221&labelColor=0D0221)](https://www.linkedin.com/in/mayerust)
+[![GitHub](https://img.shields.io/badge/GitHub-mayerust-FF2079?style=for-the-badge&logo=github&logoColor=0D0221&labelColor=0D0221)](https://github.com/mayerust)
+[![Gmail](https://img.shields.io/badge/Email-mayankverma18.work-7B2FF7?style=for-the-badge&logo=gmail&logoColor=00FFF9&labelColor=0D0221)](mailto:mayankverma18.work@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF9,50:7B2FF7,100:0D0221&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<sub>⚡ system idle — awaiting next commit ⚡</sub>
+</div>
