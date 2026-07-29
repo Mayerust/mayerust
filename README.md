@@ -64,7 +64,7 @@ Production-style WAF combining rule-based detection with a Random Forest engine 
 - Attack scoring evaluated with F1 / ROC-AUC
 - Secure SDLC + threat modeling from day one
 
-<a href="https://github.com/mayerust"><code>→ view repo</code></a>
+<a href="https://github.com/Mayerust/shadowguard"><code>→ view repo</code></a>
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ Detects AI-generated audio through automated feature extraction and ML-based aut
 - End-to-end automated preprocessing → classification
 - Applied to content-moderation use cases
 
-<a href="https://github.com/mayerust"><code>→ view repo</code></a>
+<a href="https://github.com/Mayerust/auraforge-ai-authenticity"><code>→ view repo</code></a>
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ Automated static-analysis pipeline for Android APKs using Androguard, engineerin
 - ML workflows for malicious vs. benign classification
 - Built for scalable large-batch APK analysis
 
-<a href="https://github.com/mayerust"><code>→ view repo</code></a>
+<a href="https://github.com/Mayerust/APKGuard"><code>→ view repo</code></a>
 
 </td>
 <td width="50%" valign="top">
